@@ -1,0 +1,188 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="include">
+      <UniqueIdentifier>{7a53b018-8094-4ff9-85eb-a12bef2ff6b0}</UniqueIdentifier>
+      <Extensions>h;hpp;hxx;hm;inl</Extensions>
+    </Filter>
+    <Filter Include="src">
+      <UniqueIdentifier>{ecc76a0a-ab77-4492-b7a5-d8de6410ab15}</UniqueIdentifier>
+      <Extensions>cpp;c;cxx;rc;def;r;odl;idl;hpj;bat</Extensions>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="include\stdint.hpp">
+      <Filter>include</Filter>
+    </ClInclude>
+    <ClInclude Include="include\xfile.h">
+      <Filter>include</Filter>
+    </ClInclude>
+    <ClInclude Include="include\ximabmp.h">
+      <Filter>include</Filter>
+    </ClInclude>
+    <ClInclude Include="include\ximacfg.h">
+      <Filter>include</Filter>
+    </ClInclude>
+    <ClInclude Include="include\ximadef.h">
+      <Filter>include</Filter>
+    </ClInclude>
+    <ClInclude Include="include\ximage.h">
+      <Filter>include</Filter>
+    </ClInclude>
+    <ClInclude Include="include\ximagif.h">
+      <Filter>include</Filter>
+    </ClInclude>
+    <ClInclude Include="include\ximaico.h">
+      <Filter>include</Filter>
+    </ClInclude>
+    <ClInclude Include="include\ximaiter.h">
+      <Filter>include</Filter>
+    </ClInclude>
+    <ClInclude Include="include\ximajas.h">
+      <Filter>include</Filter>
+    </ClInclude>
+    <ClInclude Include="include\ximajbg.h">
+      <Filter>include</Filter>
+    </ClInclude>
+    <ClInclude Include="include\ximajpg.h">
+      <Filter>include</Filter>
+    </ClInclude>
+    <ClInclude Include="include\ximamng.h">
+      <Filter>include</Filter>
+    </ClInclude>
+    <ClInclude Include="include\ximapcx.h">
+      <Filter>include</Filter>
+    </ClInclude>
+    <ClInclude Include="include\ximapng.h">
+      <Filter>include</Filter>
+    </ClInclude>
+    <ClInclude Include="include\ximapsd.h">
+      <Filter>include</Filter>
+    </ClInclude>
+    <ClInclude Include="include\ximaraw.h">
+      <Filter>include</Filter>
+    </ClInclude>
+    <ClInclude Include="include\ximaska.h">
+      <Filter>include</Filter>
+    </ClInclude>
+    <ClInclude Include="include\ximatga.h">
+      <Filter>include</Filter>
+    </ClInclude>
+    <ClInclude Include="include\ximath.h">
+      <Filter>include</Filter>
+    </ClInclude>
+    <ClInclude Include="include\ximatif.h">
+      <Filter>include</Filter>
+    </ClInclude>
+    <ClInclude Include="include\ximawbmp.h">
+      <Filter>include</Filter>
+    </ClInclude>
+    <ClInclude Include="include\ximawmf.h">
+      <Filter>include</Filter>
+    </ClInclude>
+    <ClInclude Include="include\xiofile.h">
+      <Filter>include</Filter>
+    </ClInclude>
+    <ClInclude Include="include\xmemfile.h">
+      <Filter>include</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="src\tif_xfile.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="src\ximabmp.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="src\ximadsp.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="src\ximaenc.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="src\ximaexif.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="src\ximage.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="src\ximagif.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="src\ximahist.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="src\ximaico.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="src\ximainfo.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="src\ximaint.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="src\ximajas.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="src\ximajbg.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="src\ximajpg.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="src\ximalpha.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="src\ximalyr.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="src\ximamng.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="src\ximapal.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="src\ximapcx.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="src\ximapng.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="src\ximapsd.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="src\ximaraw.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="src\ximasel.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="src\ximaska.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="src\ximatga.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="src\ximath.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="src\ximatif.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="src\ximatran.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="src\ximawbmp.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="src\ximawmf.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="src\ximawnd.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="src\xmemfile.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>
